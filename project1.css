@@ -1,0 +1,100 @@
+#first_div{
+   text-align: center;
+   margin-top: 230px ;
+   margin-left: auto;
+   margin-right: auto;
+}
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:50px;
+    word-spacing: 1px;
+     margin-bottom: 10px;
+     color: #926239;
+
+}
+#first_para{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    margin: 0;
+    word-spacing: 5px;
+    margin-bottom: 36px;
+    color: #926239;
+
+}
+#first_span{
+font-family: Arial, Helvetica, sans-serif;
+font-size: 19px;
+border: 1px solid ;
+padding-top: 13px;
+padding-bottom: 13px;
+padding-right: 18px;
+padding-left: 18px;
+border-radius: 10px;
+color: #926239;
+}
+#first_span:hover{
+    background-color: #926239;
+    color: white;
+}
+
+#first_section{
+    margin-top: 245px;
+    background-color: #926239;
+   
+}
+#second_para{
+    padding: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 17px;
+    color: white;
+    line-height: 28px;
+    text-align: center;
+}
+#second_section{
+    background-color: #F4F4F4;
+}
+#third_para{
+    padding: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 17px;
+    color:#926239;
+    line-height: 28px;
+    text-align: center;
+}
+#second_div span{
+    display: inline-block;
+    width: 400px;
+}
+#one{
+    background-color: #926239;
+    padding: 20px;
+    line-height: 28px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 17px;
+    color: white;
+    
+}
+#two{
+    background-color: #F9F9F9;
+    padding: 20px;
+    line-height: 28px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 17px;
+    color:#926239;
+    padding-right: 41px;
+}
+#three{
+    background-color: #926239;
+    padding: 20px;
+    line-height: 28px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 17px;
+    color: white;
+
+}
+
+
+*{
+    margin: 0;
+
+}
